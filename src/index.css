@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#root{
+
+    position: relative;
+}
